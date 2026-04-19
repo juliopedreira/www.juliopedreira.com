@@ -1,0 +1,8 @@
+site_name: Julio Pedreira
+site_url: https://www.juliopedreira.com
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
